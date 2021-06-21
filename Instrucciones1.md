@@ -1,12 +1,8 @@
-Instrucciones
-
-Practiquemos un poco los comandos de git
-Mientras conocemos como crear un servidor php gratuito
-Son 3 o 4 equipos (no es competencia)
-Es un ejercico para trabajar en equipo y de manera colaborativa
-Si tienen alguna duda manden mensaje al grupo de whats
-(alguien puede tener la misma duda)
-
-Abre git bash, estas en una rama llamada Release
-Para encontrar las primeras instrucciones busca el commit
-llamado "EMPIEZA AQUI"
+Ya casi terminamos :D
+Parece q nuestro PHP ya imprime la información
+Nos hacen falta dos cosas:
+1. que imprima el salto de linea... Investiga como se hace
+2. Actualiza el archivo en el servidor y corre para ver que todo haya quedado bien
+3. Busca en google 3 comandos de PHP igual pueden ser sentencias y agregalo a tu archivo
+explicando que hace
+4. cuando termines mandame el link de tu sitio
